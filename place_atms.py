@@ -44,7 +44,7 @@ with open('places.csv', newline='') as csvfile:
     # bowser opened. opened maps --------------------------------------------
             browser.get("https://www.google.com/maps/")
 
-            if row[0] == "Name": 
+            if row[0].lower() == "name": 
                 index += 1
                 continue
             # logging.info(f"Registering {row}")

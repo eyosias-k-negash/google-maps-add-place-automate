@@ -16,9 +16,9 @@
 - login to the google account that will be used to place the locations
 - after logging in close that window
 3. create a csv of the places to add on google map in the following format
-`Name,latituide,longituide,address`
-- Header is not necessary as long as they are places in the right order
-- If you include header make sure the first column is spelled `Name` exactly.
+`name,latituide,longituide,address`
+- Header is not necessary as long as the values are placed in the right order.
+- If you include a header make sure the first column is spelled `name` exactly.
 - If the address does not compute in google maps that entry will fail
 	- If you are not sure of the address of the place make sure you skip it. 
 	- The script will use google's plus code instead.
