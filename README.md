@@ -33,4 +33,4 @@
 	- The script will move on to another entry if it fails to place it in the 50th trial.
 	
 ## demo 
-![demo.gif](https://github.com/eyosias-k-negash/google-maps-add-place-automate/blob/master/demo.gif?raw=true){: width="1000px"}
+![demo.gif](https://github.com/eyosias-k-negash/google-maps-add-place-automate/blob/master/demo.gif?raw=true){: width="100%"}
