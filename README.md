@@ -12,7 +12,7 @@
 - Navigate to folder you created earlier
 - Click `Finish`
 - Find the profile you created using the name and click `Launch profile in new browser`
-- In the new window nativate to https://account.google.com/login
+- In the new window nativate to https://accounts.google.com/login
 - login to the google account that will be used to place the locations
 - after logging in close that window
 3. create a csv of the places to add on google map in the following format
